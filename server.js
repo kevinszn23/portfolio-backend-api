@@ -10,7 +10,7 @@ const about = require("./about.json")
 const app = express()
 
 // PORT
-const PORT = process.env.port || 4000
+const PORT = process.env.PORT || 4000
 
 // middleware
 app.use(cors())
