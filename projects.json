@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Project 1 Kombo Kards",
+        "live": "https://kevinszn23.github.io/Project-1-Kombo-Kards/",
+        "git": "https://github.com/kevinszn23/Project-1-Kombo-Kards",
+        "image": "https://picsum.photos/200/300"
+    },
+
+    {
+        "name": "Project 2 This-Is-Spotify",
+        "live": "https://this-is-spotifyy.herokuapp.com/search",
+        "git": "https://github.com/brendonvan/This-Is-Spotify",
+        "image": "https://picsum.photos/200/300"
+    }
+]
